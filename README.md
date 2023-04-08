@@ -4,8 +4,8 @@ Este repositório contém uma análise sobre os casos de feminicídio ocorridos 
 A análise se baseia em dados públicos disponibilizados pela Secretaria de Segurança Pública de São Paulo (SSP-SP) e abrange o período de 2015 a 2022.
 
 Arquivos
-feminicidios_sp.csv: arquivo CSV com os dados dos casos de feminicídio registrados no estado de São Paulo no período de 2015 a 2022.
-analise_feminicidios_sp.ipynb: Jupyter Notebook contendo a análise dos dados.
+feminicidio_2015_2022.xlsx: arquivo CSV com os dados dos casos de feminicídio registrados no estado de São Paulo no período de 2015 a 2022.
+Analise-feminicidio-SP.ipynb: Jupyter Notebook contendo a análise dos dados.
 Análise
 A análise dos dados inclui gráficos e tabelas que mostram a evolução dos casos de feminicídio no estado de São Paulo ao longo dos anos, distribuição geográfica, perfis das vítimas e dos agressores, bem como outras informações relevantes.
 
