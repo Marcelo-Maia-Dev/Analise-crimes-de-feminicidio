@@ -15,7 +15,7 @@ Contribuições
 Este projeto é aberto a contribuições de outras pessoas interessadas em analisar os dados de feminicídio no estado de São Paulo. As contribuições podem ser feitas por meio de pull requests neste repositório.
 
 Fonte dos dados
-Os dados foram obtidos a partir do portal de dados abertos da SSP-SP (https://#####). Os dados são atualizados mensalmente e estão disponíveis em formato aberto (CSV).
+Os dados foram obtidos a partir do portal de dados abertos da SSP-SP (http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx). Os dados são atualizados mensalmente e estão disponíveis em formato aberto (CSV).
 
 
 
